@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=GatherControl
+Exec=AppRun %F
+Icon=gathercontrol
+Comment= control your gathering
+Terminal=false
+Categories=Utility;

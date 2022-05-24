@@ -1,0 +1,9 @@
+node_modules
+dist/
+deploy/win32/build/
+deploy/win32/GatherControl/node_modules
+deploy/darwin/build/
+deploy/darwin/GatherControl.app/Contents/Resources/node_modules
+deploy/linux/build/
+*.log
+.vscode
