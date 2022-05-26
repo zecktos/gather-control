@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@gathertown/gather-game-client": "^37.0.1",
-    "@nodegui/nodegui": "^0.44.0",
+    "@nodegui/nodegui": "^0.50.0",
     "fs-extra": "^10.1.0",
     "isomorphic-ws": "^4.0.1",
     "node-notifier": "^10.0.1"
