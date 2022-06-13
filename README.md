@@ -10,6 +10,8 @@ GatherControl is a gui app to interact with the [Gather Town platform](https://w
 - to generate your api key create a Gather Town account and go to [https://app.gather.town/apikeys](https://app.gather.town/apikeys)
 - as space ID take the part after ``gather.town/app/`` from the url in your browser  
 ![](./img/space_id.png)
+- optional: in settings choose a directory with scripts for custom functionality  
+ have a look at the [example scripts](https://github.com/zecktos/gather-control-scripts) for infos about scripting
 - have fun  
 ***Note:*** *when you edit the settings (api Key, space ID and script Directory) you need to close and restart the app, after clicking on save, for the changes to take effect*
 
