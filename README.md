@@ -2,7 +2,7 @@
  **Disclaimer: expect bugs !**  
  **it's only tested in spaces with max 30 people and also Gather Town makes no guarantees about the stability of their API**
 ___
-GatherControl is an gui app to interact with the [Gather Town platform](https://www.gather.town/) and is based on [gather-game-client](https://www.npmjs.com/package/@gathertown/gather-game-client).  You can **teleport** and **freeze** people (and groups), get **desktop notifications** on interaction with objects and trigger your own **custom scripts**.  
+GatherControl is a gui app to interact with the [Gather Town platform](https://www.gather.town/) and is based on [gather-game-client](https://www.npmjs.com/package/@gathertown/gather-game-client).  You can **teleport** and **freeze** people (and groups), get **desktop notifications** on interaction with objects and trigger your own **custom scripts**.  
 ![](./img/screenshots_scripts_notify.png)
 ## install and setup 
 - download a [bundled release](https://github.com/zecktos/gather-control/releases/latest) for linux, windows or macOS 
